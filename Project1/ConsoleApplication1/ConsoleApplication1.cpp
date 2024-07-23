@@ -1,4 +1,4 @@
-// ConsoleApplication1.cpp : ÄÜ¼Ö ÀÀ¿ë ÇÁ·Î±×·¥¿¡ ´ëÇÑ ÁøÀÔÁ¡À» Á¤ÀÇÇÕ´Ï´Ù.
+ï»¿// ConsoleApplication1.cpp : ì½˜ì†” ì‘ìš© í”„ë¡œê·¸ë¨ì— ëŒ€í•œ ì§„ì…ì ì„ ì •ì˜í•©ë‹ˆë‹¤.
 //
 
 #include "stdafx.h"
@@ -8,8 +8,8 @@ using namespace std;
 
 int main()
 {
-	std::cout << "Hello World!!\n" << std::endl;
+	std::cout << "Hello World1!!\n" << std::endl;
+	std::cout << "Hello World2!!\n" << std::endl;
 
     return 0;
 }
-
