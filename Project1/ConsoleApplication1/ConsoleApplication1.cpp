@@ -10,6 +10,10 @@ int main()
 {
 	std::cout << "Hello World1!!\n" << std::endl;
 	std::cout << "Hello World2!!\n" << std::endl;
+	asdf
+		a
+		dad
+		as
 
     return 0;
 }
